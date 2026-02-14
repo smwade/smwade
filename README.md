@@ -1,6 +1,10 @@
 # Hi, I'm Sean
 
-ML Engineer focused on medical AI and data science. I build tools that make machine learning more accessible, with a focus on healthcare applications.
+Senior Research Data Scientist at Google. Previously ML Engineer at Apple, intern at Microsoft, and ML Resident at Disney. MS in Computer Science and BS in Applied Mathematics from BYU.
+
+I love solving complex problems and taking algorithms from research to production, with deep experience in generative AI and digital health.
+
+Learn more at [seanwade.com](https://seanwade.com)
 
 ## Featured Projects
 
@@ -15,12 +19,8 @@ ML Engineer focused on medical AI and data science. I build tools that make mach
 
 ## Tech Stack
 
-**ML/Data**: Python, TensorFlow, Keras, PyTorch, scikit-learn, NumPy, Pandas
+**ML/AI**: Python, PyTorch, JAX, TensorFlow, LLM post-training, RLHF, computer vision
 
-**Web**: TypeScript, React, Next.js, Node.js
+**Data**: SQL, Spark, Hadoop, NumPy, Pandas
 
-**Tools**: Docker, Git, Jupyter, Linux
-
-## Links
-
-- [seanwade.com](https://seanwade.com)
+**Web**: TypeScript, React, Next.js, Swift
